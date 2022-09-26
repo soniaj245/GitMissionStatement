@@ -3,16 +3,16 @@
 ### Author
 By: Sonia Jain
 
-###Description
+### Description
 Git Mission Statements assignment for Collaborating Remotely course. Contains a text file that showcases a mission statement that has been continuously edited until the final product, which can be found in missionstatement.txt.
 
-###How to Install/Run
+### How to Install/Run
 1. Clone the directory by using "git clone __GitHub_url__"
 2. Open in any text editor of your choosing or type "open missionstatement.txt" in command line.
 3. From here, you can view the mission statement.
 4. For more information on the process of creating the statement, you can look through the branches commit history, particularly the branch named "editing", to see the history of the file.
 
-###License
+### License
 MIT License
 
 Copyright (c) [2022] [Sonia Jain]
